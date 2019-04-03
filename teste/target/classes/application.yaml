@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: teste
+server:
+  port: 8888
+runtime: java
+env: flex
